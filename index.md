@@ -8,10 +8,8 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+En este espacio publicaré cada cierto tiempo, una reseña de los últimos artículos científicos publicados sobre contaminación del aire, meteorología y temas relacionados; algunos consejos para gestionar datos de calidad de aire; y también sobre modelos de dispersión, tema en la que estoy especializándome. 
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+Para la gestión de datos usaré el lenguaje R, que gracias a su versatilidad se pueden realizar gráficos muy interesantes y obtener datos que se encuentren on-line de manera rápida. Intentaré utilizar siempre software libre, para que todos ustedes puedan replicar los consejos, sin incurrir en costos de adquisición de licencia.
 
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+Con todo ello, espero que pueda contribuir al conocimiento libre y a su vez, ir aprendiendo con sus comentarios y sugerencias. 
