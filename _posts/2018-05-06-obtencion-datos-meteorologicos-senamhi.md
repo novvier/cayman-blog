@@ -12,6 +12,8 @@ Es posible extraer esta información con un simple copiar/pegar. Sin embargo, re
 
 R nos ayuda a extraer información de la web con una técnica llama "scraping" mediante el paquete "rvest" y en esta oportunidad utilizaremos esta técnica para obtener de forma rápida la información publicada por SENAMHI en su página web.
 
-El código utilizado es el siguiente:
+El código utilizado es el siguiente: [My page](/path/to/page.html)
 
-
+```r
+file <- NROW(LETTERS)
+```
