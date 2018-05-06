@@ -96,7 +96,7 @@ La función "senamhi" posee tres parámetros:
 
 Las fechas de inicio y término deberán ser ingresadas como texto (_character_) con el formato "año-mes" (Ejem: "2017-1"). Para obtener el código de la estación simplemente realizamos una búsqueda en el página web del SENAMHI o nos dirigimos al siguiente enlace: [CLICK](http://senamhi.gob.pe/include_mapas/_map_data_hist.php). Al momento de solicitar la visualización de los datos, podemos observar el código de la estación en la barra de direcciones:
 
-![alt text][logo](https://github.com/novvier/novvier.github.io/blob/master/img/data_senamhi.JPG)
+![alt text][logo](https://novvier.github.io/img/data_senamhi.JPG)
 
 La imagen muestra el código de la estación "Cerro de Pasco" resaltada: 000593.
 
